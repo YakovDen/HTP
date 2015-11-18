@@ -14,6 +14,7 @@ public class SuperMarket {
 		es.submit(new ThreadBayer("Buyer ¹3", queue));
 		es.submit(new ThreadBayer("Buyer ¹4", queue));
 		es.submit(new ThreadBayer("Buyer ¹5", queue));
+		//nkjnj
 
 	}
 
